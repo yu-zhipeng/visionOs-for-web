@@ -1,0 +1,25 @@
+{
+  "hash": "a74bae7e",
+  "configHash": "932db2dd",
+  "lockfileHash": "3855d48e",
+  "browserHash": "06b9abe8",
+  "optimized": {
+    "interactjs": {
+      "src": "../../../.pnpm/registry.npmmirror.com+interactjs@1.10.26/node_modules/interactjs/dist/interact.min.js",
+      "file": "interactjs.js",
+      "fileHash": "89a7c554",
+      "needsInterop": true
+    },
+    "vue": {
+      "src": "../../../.pnpm/registry.npmmirror.com+vue@3.4.15/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "4cf96615",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-Y2F7D3TJ": {
+      "file": "chunk-Y2F7D3TJ.js"
+    }
+  }
+}

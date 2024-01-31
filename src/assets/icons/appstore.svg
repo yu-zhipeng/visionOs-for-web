@@ -1,0 +1,37 @@
+<svg width="106.000000" height="106.000000" viewBox="0 0 106 106" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_1_175_dd" x="0.000000" y="0.000000" width="106.000000" height="106.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="1.33333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<filter id="filter_1_176_dd" x="17.734497" y="18.999794" width="70.302246" height="63.000298" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="1.33333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.47843 0 0 0 0 0.86667 0 0 0 1 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<linearGradient id="paint_linear_1_175_0" x1="52.999989" y1="0.000000" x2="52.999989" y2="98.000000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#15C7FA"/>
+			<stop offset="1.000000" stop-color="#216FF0"/>
+		</linearGradient>
+	</defs>
+	<g filter="url(#filter_1_175_dd)">
+		<circle id="Ellipse 70" cx="53.000000" cy="49.000000" r="49.000000" fill="url(#paint_linear_1_175_0)"/>
+	</g>
+	<g filter="url(#filter_1_176_dd)">
+		<path id="App Store Icon" d="M52.8857 24.0189L54.6588 20.9477C55.7341 19.0853 58.1156 18.4472 59.978 19.5224C61.8404 20.5977 62.4785 22.9792 61.4033 24.8416L44.8032 53.5938L57.4654 53.5938C59.781 54.3886 61.6469 56.9964 61.6469 59.4345C61.6469 60.0042 61.5118 60.6723 61.2911 61.3816L25.6284 61.3816C23.4778 61.3816 21.7345 59.6382 21.7345 57.4877C21.7345 55.3372 23.4778 53.5938 25.6284 53.5938L35.8106 53.5938L48.3894 31.8067L44.368 24.8413C43.2927 22.9789 43.9308 20.5974 45.7932 19.5221C47.6556 18.4469 50.0371 19.085 51.1124 20.9474L52.8857 24.0189ZM71.6252 72.0522L55.5655 44.236C54.8395 39.993 56.8426 36.7163 58.726 34.1346L69.9608 53.5938L80.1428 53.5938C82.2934 53.5938 84.0367 55.3372 84.0367 57.4877C84.0367 59.6382 82.2934 61.3816 80.1428 61.3816L74.4571 61.3816L78.3696 68.1583C79.4449 70.0207 78.8068 72.4022 76.9443 73.4774C75.0819 74.5527 72.7004 73.9146 71.6252 72.0522ZM34.146 72.0525L38.1269 65.1574C36.5344 63.7118 35.0622 62.8418 33.416 62.8418C31.8986 62.8418 31.7117 62.8418 30.2052 63.3027L27.4016 68.1586C26.3264 70.021 26.9644 72.4025 28.8269 73.4778C30.6893 74.553 33.0708 73.9149 34.146 72.0525Z" clip-rule="evenodd" fill-rule="evenodd" fill="#FFFFFF" fill-opacity="1.000000"/>
+	</g>
+</svg>

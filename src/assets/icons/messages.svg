@@ -1,0 +1,25 @@
+<svg width="106.000000" height="106.000000" viewBox="0 0 106 106" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_1_67_dd" x="0.000000" y="0.000000" width="106.000000" height="106.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="1.33333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<linearGradient id="paint_linear_1_67_0" x1="53.000000" y1="0.000000" x2="53.000000" y2="98.000000" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#5CF777"/>
+			<stop offset="1.000000" stop-color="#0EBC29"/>
+		</linearGradient>
+	</defs>
+	<g filter="url(#filter_1_67_dd)">
+		<circle id="Ellipse 67" cx="53.000000" cy="49.000000" r="49.000000" fill="url(#paint_linear_1_67_0)"/>
+	</g>
+	<path id="Ellipse 34" d="M85 47.6115C85 62.3085 70.6731 74.2229 53 74.2229C50.1949 74.2229 47.4741 73.9227 44.8816 73.359C44.3669 73.247 43.8275 73.2286 43.3516 73.4544C41.1485 74.4995 37.3097 77.8402 32.2299 77.9945C32.083 77.9945 32.0007 77.8301 32.0913 77.7142C34.9611 74.0438 36.8536 70.6238 35.631 69.9655C26.8262 65.2245 21 56.9838 21 47.6115C21 32.9144 35.3269 21 53 21C70.6731 21 85 32.9144 85 47.6115Z" fill-rule="nonzero" fill="#FFFFFF"/>
+</svg>

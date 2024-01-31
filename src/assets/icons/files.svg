@@ -1,0 +1,31 @@
+<svg width="105.999992" height="106.000000" viewBox="0 0 106 106" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_1_55_dd" x="0.000000" y="0.000000" width="105.999992" height="106.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="1.33333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<linearGradient id="paint_linear_1_57_0" x1="53.307785" y1="26.842285" x2="53.307785" y2="37.826057" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#13B0F8"/>
+			<stop offset="1.000000" stop-color="#0283EC"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_1_58_0" x1="53.307785" y1="36.107727" x2="53.307785" y2="71.151199" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#2ABAFB"/>
+			<stop offset="1.000000" stop-color="#2676F6"/>
+		</linearGradient>
+	</defs>
+	<g filter="url(#filter_1_55_dd)">
+		<circle id="Ellipse 66" cx="52.999992" cy="49.000000" r="49.000000" fill="#FFFFFF"/>
+	</g>
+	<path id="Vector 47" d="M24.6155 37.5272L24.6155 29.8771C24.6155 28.201 25.9742 26.8423 27.6503 26.8423L39.4457 26.8423C40.2813 26.8423 41.0799 27.1868 41.6533 27.7946L43.5027 29.7549C44.1334 30.4235 45.0118 30.8024 45.931 30.8024L78.9652 30.8024C80.6413 30.8024 82.0001 32.1612 82.0001 33.8373L82.0001 37.8261L24.6155 37.5272Z" fill-rule="evenodd" fill="url(#paint_linear_1_57_0)"/>
+	<path id="Rectangle 162" d="M26.3636 36.1077L80.252 36.1077C80.8639 36.1077 81.1698 36.1077 81.4036 36.2268C81.6091 36.3316 81.7763 36.4987 81.881 36.7043C82.0001 36.938 82.0001 37.2439 82.0001 37.8558L82.0001 66.2954C82.0001 67.9951 82.0001 68.8449 81.6693 69.4941C81.3783 70.0652 80.9141 70.5294 80.343 70.8204C79.6938 71.1512 78.844 71.1512 77.1443 71.1512L29.4712 71.1512C27.7716 71.1512 26.9217 71.1512 26.2725 70.8204C25.7015 70.5294 25.2372 70.0652 24.9463 69.4941C24.6155 68.845 24.6155 67.9951 24.6155 66.2954L24.6155 37.8558C24.6155 37.2439 24.6155 36.938 24.7346 36.7043C24.8393 36.4987 25.0064 36.3316 25.212 36.2268C25.4457 36.1077 25.7517 36.1077 26.3636 36.1077Z" fill-rule="evenodd" fill="url(#paint_linear_1_58_0)"/>
+	<path id="Rectangle 163" d="M28.1457 34.0153L78.3951 34.0153C79.0655 34.0153 79.609 34.5588 79.609 35.2293L79.609 36.1075L26.9318 36.1075L26.9318 35.2293C26.9318 34.5588 27.4753 34.0153 28.1457 34.0153Z" fill-rule="evenodd" fill="#FFFFFF"/>
+</svg>
